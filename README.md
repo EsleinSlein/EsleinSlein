@@ -5,7 +5,7 @@
 **Data Science/ML**
 | Название репозитория | Описание | 
 | :---------------------- | :---------------------- | 
-| [Data_science_yandex_praktikum_projects ](https://github.com/EsleinSlein/Data_science_yandex_praktikum_projects) |Проекты  выполненые в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".|
+| [Data_science_yandex_praktikum_projects ](https://github.com/EsleinSlein/Data_science_yandex_praktikum_projects) |15 проектов выполненых в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".|
 | [Learning_ML_experiments_and_pet_project](https://github.com/EsleinSlein/Learning_ML_experiments_and_pet_project) |Самостоятельные проекты по DS/ML. Pet проекты.|
 
 **Backend на Django**
